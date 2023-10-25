@@ -424,8 +424,8 @@ var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
 	</div>
 	</div>
         <nav class="vertical_menu dropdown_animation vertical_menu_toggle">
-            <ul id="menu-working-menu" class=""><li id="nav-menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="http://techmonetizedojo.local/about/" class=""><i class="menu_icon blank fa"></i><span>About<span class="underline_dash"></span></span><span class="plus"></span></a></li>
-<li id="nav-menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="http://techmonetizedojo.local/portfolio/" class=""><i class="menu_icon blank fa"></i><span>Blogs<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+            <ul id="menu-working-menu" class=""><li id="nav-menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  narrow"><a href="http://techmonetizedojo.local/" class=""><i class="menu_icon blank fa"></i><span>Home<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"></li>
 </ul>        </nav>
         <div class="vertical_menu_area_widget_holder">
                     </div>
@@ -451,8 +451,8 @@ var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
 												                </div>
             </div>
 		        <nav class="mobile_menu">
-	<ul id="menu-working-menu-1" class=""><li id="mobile-menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://techmonetizedojo.local/about/" class=""><span>About</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-<li id="mobile-menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://techmonetizedojo.local/portfolio/" class=""><span>Blogs</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+	<ul id="menu-working-menu-1" class=""><li id="mobile-menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="http://techmonetizedojo.local/" class=""><span>Home</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page "></li>
 </ul></nav>        </div>
     </div>
 </header>
